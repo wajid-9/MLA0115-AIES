@@ -47,3 +47,5 @@ board[row][col] = current\_player
 `        `break 
 
 `    `current\_player = 'O' if current\_player == 'X' else 'X' if **name** == "**main**": tic\_tac\_toe()
+**output**
+![image](https://github.com/user-attachments/assets/c8df22a1-4527-49b1-9418-b4ae36c7caff)
