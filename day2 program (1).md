@@ -113,8 +113,8 @@ def main():
 `    `main() 
 
 **OUTPUT** 
+![Aspose Words 094a20de-6b28-42df-a4d7-785eb9af8bb8 001](https://github.com/user-attachments/assets/abb3c38a-865a-42a6-8cb2-cdc0e47d8383)
 
-![](Aspose.Words.094a20de-6b28-42df-a4d7-785eb9af8bb8.001.png)
 
 **7)AIM:**Breadth-First Search (BFS) 
 
