@@ -184,7 +184,7 @@ if \_\_name\_\_ == "\_\_main\_\_":
 
 **output** 
 
-![](Aspose.Words.094a20de-6b28-42df-a4d7-785eb9af8bb8.002.png)
+![Aspose Words 094a20de-6b28-42df-a4d7-785eb9af8bb8 002](https://github.com/user-attachments/assets/0cd4ddd6-4930-483a-a2e6-1d6953a6b725)
 
 **8)AIM:**Depth-First Search (DFS) 
 
@@ -260,7 +260,7 @@ if \_\_name\_\_ == "\_\_main\_\_":
 
 **output** 
 
-![](Aspose.Words.094a20de-6b28-42df-a4d7-785eb9af8bb8.003.jpeg)
+![Aspose Words 094a20de-6b28-42df-a4d7-785eb9af8bb8 003](https://github.com/user-attachments/assets/fc291f8f-70ce-4618-b6ad-9e5e5e74196c)
 
 **9)AIM:**Travelling Salesman Problem (TSP) ALGORITHM: 
 
@@ -332,7 +332,7 @@ if \_\_name\_\_ == "\_\_main\_\_":
 
 OUTPUT: 
 
-![](Aspose.Words.094a20de-6b28-42df-a4d7-785eb9af8bb8.004.png)
+![Aspose Words 094a20de-6b28-42df-a4d7-785eb9af8bb8 004](https://github.com/user-attachments/assets/68fb4696-89a9-495b-8aaf-c73a4dab9c8e)
 
 **10)AIM:**A\* Algorithm 
 
