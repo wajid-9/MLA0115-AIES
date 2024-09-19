@@ -33,3 +33,5 @@ return ((x1 - x2) \*\* 2 + (y1 - y2) \*\* 2) \*\* 0.5
 g = Graph() g.add\_edge((0, 0), {(0, 1): 1, (1, 0): 1}) g.add\_edge((0, 1), {(0, 0): 1, (1, 1): 1}) g.add\_edge((1, 0), {(0, 0): 1, (1, 1): 1}) g.add\_edge((1, 1), {(0, 1): 1, (1, 0): 1})
 
 start\_node = (0, 0) goal\_node = (1, 1) path = astar(g, start\_node, goal\_node) if path: print("Shortest Path:", path) else: print("No path found.")
+**output**
+![a algorithm](https://github.com/user-attachments/assets/cc34f6be-9857-4c76-9828-c6d4e45a14b7)
