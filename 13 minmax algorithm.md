@@ -76,7 +76,8 @@ computer\_move = get\_best\_move(board) board[computer\_move[0]][computer\_move[
 
 `        `print("It's a tie!")         break
 
-if **name** == "**main**": play\_game() **output** 
+if **name** == "**main**": play\_game() 
+**output** 
 
 
 
