@@ -28,7 +28,7 @@ studies(Y, C).
 
 
 
-**output**
+**Output**
 
 
 
