@@ -1,4 +1,5 @@
-﻿- Facts about individuals with their names and DOBs dob(john, date(1990, 5, 15)). 
+﻿- Facts about individuals with their names and DOBs 
+ dob(john, date(1990, 5, 15)). 
  dob(lisa, date(1985, 10, 20)). 
  dob(mary, date(1995, 2, 8)). 
  dob(david, date(1980, 7, 3)).
