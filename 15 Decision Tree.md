@@ -19,3 +19,11 @@ y\_pred = clf.predict(X\_test)
 **Calculate accuracy**
 
 accuracy = accuracy\_score(y\_test, y\_pred) print(f"Accuracy: {accuracy \* 100:.2f}%")
+**output**
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/e0fea8c7-7fbb-48aa-8c5a-00f4039f998a)
+
