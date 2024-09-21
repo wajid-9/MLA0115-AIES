@@ -33,4 +33,5 @@ studies(Y, C).
 
 
 
-![image](https://github.com/user-attachments/assets/60cfe29e-7d8d-4d75-bfef-af3fb538f3c8)
+![image](https://github.com/user-attachments/assets/6f5d9ca4-894e-4d0c-b7b8-ace4fd4ca7c1)
+
