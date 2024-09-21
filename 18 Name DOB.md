@@ -15,12 +15,7 @@
 **output**
 
 
-
-![DOB 1](https://github.com/user-attachments/assets/bffe2a47-947f-4a14-acbb-379a20fc9d1a)
-
-
-
-![DOB 2](https://github.com/user-attachments/assets/898b5983-230e-42c4-b935-ed852b67d548)
+![image](https://github.com/user-attachments/assets/f05ea554-5995-4563-8bba-986188f26657)
 
 
 
