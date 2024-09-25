@@ -1,14 +1,9 @@
-﻿- Base case: The sum of the first 0 natural numbers is 0 
- - sum(0, 0).
-- Recursive case: The sum of the first N natural numbers
--  sum(N, Total)
--  :- N > 0,
-- % Ensure N is positive N1 is N - 1,
-- % Decrement N sum(N1, Subtotal),
--  % Recursive call to sum(N1, Subtotal)
--   Total is N + Subtotal.
--   % Total is the sum of N and the subtotal
-
+sum_to_n(0,0).
+sum_to_n(N,Sum):-
+    N>0,
+    N1 is N-1,
+    sum_to_n(N1,Sum1),
+    Sum is N+Sum1.
 
 **output**
 
